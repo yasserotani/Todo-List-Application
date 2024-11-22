@@ -18,4 +18,4 @@ A clean and modern todo list application built with vanilla JavaScript. Users ca
 
 ## Live Demo
 
-[Add your GitHub Pages link once deployed]
+[https://yasserotani.github.io/Todo-List-Application/]
